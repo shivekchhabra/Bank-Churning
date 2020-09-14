@@ -8,6 +8,18 @@ Simply install requirements:
 
 and then run eda.py or model_building.py
 
+## Sample Outputs:
+
+### Categorical Comparisons
+![alt text](https://github.com/shivekchhabra/Bank-Churning/blob/master/Outputs/categorical_comparison.png)
+
+
+### Gender Distribution
+![alt text](https://github.com/shivekchhabra/Bank-Churning/blob/master/Outputs/gender_distribution.png)
+
+
 ## References:
 Dataset and learning from Kaggle.
 A big thanks to Keldine Malit.
+
+
