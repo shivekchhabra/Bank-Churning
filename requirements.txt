@@ -25,7 +25,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
 requests==2.24.0
-ricebowl==0.4.4
+ricebowl==0.4.6
 scikit-learn==0.23.2
 scipy==1.5.2
 seaborn==0.10.1

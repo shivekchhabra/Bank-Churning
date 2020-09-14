@@ -8,8 +8,6 @@ Simply install requirements:
 
 and then run eda.py or model_building.py
 
-Please note: You need to have cmake and wheels built up for the used ricebowl version. You may install version 0.4.6 if you don't want to work on boosting models.
-
 ## References:
 Dataset and learning from Kaggle.
 A big thanks to Keldine Malit.
